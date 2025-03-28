@@ -1,0 +1,14 @@
+.elementOne{
+    background-color: #000000;
+    color: #ffffff;
+}
+
+.elementTwo{
+    background-color: #ffff00;
+}
+
+.elementOne,
+.elementTwo{
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
